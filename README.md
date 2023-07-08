@@ -8,7 +8,7 @@ Even though I have dedicated a significant part of my life to the Telecommunicat
 
 * 🌍  I'm based in Almeria, Spain
 * ✉️  You can contact me at [diegovega@me.com](mailto:diegovega@me.com)
-* 🧠  I'm learning Advance Java topics, SQL
+* 🧠  I'm learning Advance Java topics, SQL, PostgreSQL, Git & GitHub.
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
