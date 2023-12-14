@@ -16,7 +16,7 @@ With my vast expertise in telecommunications coupled with my unwavering ardor fo
 
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,git,docker,jenkins,azure,postgresql,mysql,php,r" />
+    <img src="https://skillicons.dev/icons?i=java,python,git,docker,jenkins,azure,postgresql,mysql,php,r,eclipse,vscode,github,idea,sqlite" />
   </a>
  
 </p>
