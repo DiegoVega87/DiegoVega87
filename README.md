@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graduate Software Developer
 -------------------------
 
-With my vast expertise in telecommunications coupled with my unwavering ardor for coding and utilizing Java programming to tackle intricate issues, I have earned my Bachelor's degree in Computer Science and am enthusiastically seeking growth opportunities to further advance in my field. With my vast expertise in telecommunications coupled with my unwavering ardor for coding and utilizing Java programming to tackle intricate issues, I have earned my Bachelor's degree in Computer Science and am enthusiastically seeking growth opportunities to further advance in my field.
+With my vast expertise in telecommunications coupled with my unwavering ardor for coding and utilizing Java programming to tackle intricate issues, I have earned my Bachelor's degree in Computer Science. I am enthusiastically seeking growth opportunities to further advance in my field. With my vast expertise in telecommunications coupled with my unwavering ardor for coding and utilizing Java programming to tackle intricate issues, I have earned my Bachelor's degree in Computer Science. I am enthusiastically seeking growth opportunities to further advance in my field.
 
 * 🌍  I'm based in Almeria, Spain
 * ✉️  You can contact me at [diegovega@me.com](mailto:diegovega@me.com)
-* 🧠  I'm currently learning about Azure services, Jenkins and Docker.
+* 🧠  I'm learning about Azure services, Jenkins, Docker, CSS, and reviewing HTML.
 * 🤝  I'm open to collaborating on Projects.
 
 ### Skills
@@ -16,7 +16,7 @@ With my vast expertise in telecommunications coupled with my unwavering ardor fo
 
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,git,docker,jenkins,azure,postgresql,mysql,php,r,eclipse,vscode,github,idea,sqlite" />
+    <img src="https://skillicons.dev/icons?i=java,python,git,docker,jenkins,azure,postgresql,mysql,php,r,eclipse,vscode,github,idea,sqlite,html,css" />
   </a>
  
 </p>
