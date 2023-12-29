@@ -8,7 +8,7 @@ With my vast expertise in telecommunications coupled with my unwavering ardor fo
 
 * 🌍  I'm based in Almeria, Spain
 * ✉️  You can contact me at [diegovega@me.com](mailto:diegovega@me.com)
-* 🧠  I'm learning about Azure services, Jenkins, Docker, CSS, and reviewing HTML.
+* 🧠  I'm learning about Azure services, Jenkins, Docker, CSS, JavaScript, React, and reviewing HTML.
 * 🤝  I'm open to collaborating on Projects.
 
 ### Skills
@@ -16,7 +16,7 @@ With my vast expertise in telecommunications coupled with my unwavering ardor fo
 
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,git,docker,jenkins,azure,postgresql,mysql,php,r,eclipse,vscode,github,idea,sqlite,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,python,git,docker,jenkins,azure,postgresql,mysql,php,r,eclipse,vscode,github,idea,sqlite,html,css,javascript" />
   </a>
  
 </p>
