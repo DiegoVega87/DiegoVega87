@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graduate Software Developer
 -------------------------
 
-With my vast expertise in telecommunications coupled with my unwavering ardor for coding and utilizing Java programming to tackle intricate issues, I have earned my Bachelor's degree in Computer Science. I am enthusiastically seeking growth opportunities to further advance in my field. With my vast expertise in telecommunications coupled with my unwavering ardor for coding and utilizing Java programming to tackle intricate issues, I have earned my Bachelor's degree in Computer Science. I am enthusiastically seeking growth opportunities to further advance in my field.
+With my vast expertise in telecommunications coupled with my unwavering ardor for coding and utilizing Java programming to tackle intricate issues, I have earned my Bachelor's degree in Computer Science. I am enthusiastically seeking growth opportunities to further advance in my field.
 
 * 🌍  I'm based in Almeria, Spain
 * ✉️  You can contact me at [diegovega@me.com](mailto:diegovega@me.com)
