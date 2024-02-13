@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diego Vega
 ==================================================================================================================================
 
-Graduate Software Developer
+Java Software Developer
 -------------------------
 With my extensive experience in telecommunications and my passion for coding, particularly in Java, I have developed the skills to address complex challenges. I have a Bachelor's degree in Computer Science and am eager to pursue growth opportunities in my field.
 
